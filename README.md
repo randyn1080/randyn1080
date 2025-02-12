@@ -1,5 +1,5 @@
 # Hi, I'm Randy Nava 👋
-🎯 Aspiring Software Developer | React | Java | Full-Stack Development
+🎯 Aspiring Software Developer | Java | React | Full-Stack Development
 
 - 🔭 Currently building a **Disc Golf Scorekeeping App** (React & Spring Boot)
 - 🚀 Learning **Java Spring Boot, React Native, and full-stack architecture**
